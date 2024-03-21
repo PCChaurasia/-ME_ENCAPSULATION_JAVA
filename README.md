@@ -36,3 +36,4 @@
 #### Encapsulation and Abstraction vs Inheritance
 -   Encapsulation and Abstraction are helpful to develop and maintain a big codebase.
 -   When there are similar objects in this big codebase that share common functionality, the common functionality and fields can be separated out into a separate base class which is then inherited by child classes.
+# -ME_ENCAPSULATION_JAVA
